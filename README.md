@@ -1,4 +1,6 @@
+## this is good for learning react context with class based components and hooks
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
